@@ -3,10 +3,14 @@
 ### 使用言語 
 - PHP
 - js
+  - typeScript
 - 新規事業用
 ## フレームワーク
 - Laravel
 - 新規事業用
+
+- react
+  - Redux-toolkit
 
 ## こちらに作成済みのものについて
  - android studioでの製作物
