@@ -1,6 +1,7 @@
 # アカウントを方向修正
 ## 全面的にこちらで作業に移行
 ### 使用言語 
+- python
 - PHP
 - js
   - typeScript
@@ -11,6 +12,7 @@
 
 - react
   - Redux-toolkit
+  - Next
 
 ## こちらに作成済みのものについて
  - android studioでの製作物
